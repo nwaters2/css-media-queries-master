@@ -4,7 +4,12 @@
 	selector { property:value }
 
 */
-
+p {
+  font: arial, normal; 
+  font-size: 18px;
+  color: blue;
+  background-color: grey;
+}
 
 /*
 
